@@ -13,5 +13,14 @@
     "cheerio": "^0.20.0",
     "express": "^4.14.0",
     "superagent": "^2.0.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangjiabo0/node_js_test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhangjiabo0/node_js_test/issues"
+  },
+  "homepage": "https://github.com/zhangjiabo0/node_js_test#readme"
 }
