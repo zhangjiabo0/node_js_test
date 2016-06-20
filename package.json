@@ -1,5 +1,5 @@
 {
-  "name": "nodejs_test",
+  "name": "git_node_js_test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,15 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.0.0-rc.6",
-    "benchmark": "^2.1.0",
     "cheerio": "^0.20.0",
-    "eventproxy": "^0.3.4",
     "express": "^4.13.4",
-    "mocha": "^2.5.3",
-    "should": "^9.0.2",
-    "superagent": "^2.0.0",
-    "supertest": "^1.2.0",
-    "utility": "^1.8.0"
+    "superagent": "^2.0.0"
   }
 }
